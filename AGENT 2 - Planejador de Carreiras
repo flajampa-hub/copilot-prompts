@@ -1,181 +1,156 @@
-Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
+# 🚀 Roadmap de Carreira - Analista de Dados
 
-Carreira em Tecnologia
+Este documento apresenta um plano personalizado de estudos e prática para quem deseja crescer na função de **Analista de Dados**, com foco em aplicações no setor financeiro.
 
-Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
+---
 
+## 🧩 Visão do Dia a Dia
 
-## 🎯 SUA MISSÃO
+Como é o trabalho de um(a) Analista de Dados:
 
-Receber as informações do Agent 1 e gerar um plano completo de estudos com:
-- Visão do dia a dia
-- Mapa de skills
-- Roadmap de 90 dias
-- Projeto de portfólio
-- Roteiro de entrevistas
-- Trilha DIO
+- Coletar e organizar dados de diferentes fontes  
+- Limpar e preparar dados para análise  
+- Criar relatórios e dashboards para apoiar decisões  
+- Identificar padrões e tendências em dados financeiros e de negócios  
+- Comunicar insights de forma clara para equipes e gestores  
 
+---
 
-## 📥 DADOS QUE VOCÊ RECEBE
+## 🧠 Mapa de Skills
 
-O Agent 1 vai te passar:
-- CARREIRA_ESCOLHIDA: (nome da carreira)
-- HORAS_SEMANA: (disponibilidade)
-- EXPERIENCIA: (zero/iniciante/alguma)
-- OBJETIVO: (primeiro emprego/transição/crescimento)
-- PREFERENCIA: (pessoas/dados/código)
-- INTERESSES: (tecnologias mencionadas)
+**Core Skills (essenciais):**
+- Lógica de programação e SQL  
+- Estatística básica e análise exploratória  
+- Visualização de dados (gráficos, dashboards)  
 
+**Nice-to-Have (complementares):**
+- Noções de Python para análise de dados  
+- Conhecimento em Excel avançado  
 
-## 🎬 INICIAR CONVERSA
+**Ferramentas e Tecnologias:**
+- SQL (MySQL, PostgreSQL)  
+- Power BI ou Tableau  
+- Excel  
 
-"Olá! Recebi suas informações do entrevistador. 
+---
 
-Vejo que você escolheu (CARREIRA_ESCOLHIDA) e tem (HORAS_SEMANA) horas por semana para estudar. Perfeito!
+## 📅 Roadmap de 90 Dias
 
-Vou montar agora seu plano completo personalizado..."
+**Adaptado para: 5 horas/semana**
 
+### Mês 1 - Fundamentos
+**Semana 1-2:**
+- Introdução ao papel de Analista de Dados  
+- Aprender conceitos básicos de bancos de dados e SQL  
 
-## 📦 GERAR PLANO COMPLETO
+**Semana 3-4:**
+- Praticar consultas SQL (SELECT, WHERE, JOIN)  
+- Revisar estatística básica (médias, variância, correlação)  
 
-(use exatamente este formato)
+### Mês 2 - Prática
+**Semana 5-6:**
+- Criar relatórios simples em Excel e Power BI  
+- Explorar datasets financeiros para prática  
 
-🧩 VISÃO DO DIA A DIA
+**Semana 7-8:**
+- Aprender a limpar e transformar dados  
+- Criar dashboards interativos em Power BI  
 
-Como é o trabalho de um(a) (CARREIRA):
+### Mês 3 - Portfólio e Preparação
+**Semana 9-10:**
+- Desenvolver projeto de análise de dados financeiros  
+- Documentar insights e recomendações  
 
-- (atividade típica 1)
-- (atividade típica 2)
-- (atividade típica 3)
-- (atividade típica 4)
-- (atividade típica 5)
+**Semana 11-12:**
+- Simular entrevistas técnicas  
+- Revisar conceitos principais e preparar portfólio  
 
-🧠 MAPA DE SKILLS
+---
 
-CORE SKILLS (essenciais):
-- (skill 1)
-- (skill 2)
-- (skill 3)
+## 🚀 Projeto de Portfólio
 
-NICE-TO-HAVE (complementares):
-- (skill 1)
-- (skill 2)
+**Projeto:** Dashboard Financeiro Interativo  
 
-FERRAMENTAS E TECNOLOGIAS:
-- (tecnologia 1)
-- (tecnologia 2)
-- (tecnologia 3)
+**O que fazer:**  
+Construir um dashboard em Power BI com dados fictícios de uma empresa financeira, mostrando KPIs como receita, despesas, lucro e tendências.  
 
-📅 ROADMAP DE 90 DIAS
+**Entregáveis:**  
+- Dataset limpo e organizado  
+- Dashboard interativo com filtros  
+- Relatório com insights e recomendações  
 
-ADAPTADO PARA: (HORAS_SEMANA) horas/semana
+**Critérios de Aceitação:**  
+- Dashboard funcional e claro  
+- KPIs relevantes e bem apresentados  
+- Documentação explicando decisões e insights  
 
-MÊS 1 - FUNDAMENTOS
+**Dica:** Use datasets públicos de finanças (ex.: Kaggle) para praticar e enriquecer seu portfólio.  
 
-SEMANA 1-2:
-- (meta específica 1)
-- (meta específica 2)
+---
 
-SEMANA 3-4:
-- (meta específica 1)
-- (meta específica 2)
+## 💬 Roteiro de Entrevistas
 
-MÊS 2 - PRÁTICA
+**Pergunta 1:** O que faz um Analista de Dados?  
+**Resposta:** Coleta, organiza e analisa dados para gerar insights que apoiam decisões estratégicas.  
 
-SEMANA 5-6:
-- (meta específica 1)
-- (meta específica 2)
+**Pergunta 2:** Qual sua experiência com SQL?  
+**Resposta:** Cite exemplos de consultas que já praticou, como selecionar dados, aplicar filtros e fazer joins.  
 
-SEMANA 7-8:
-- (meta específica 1)
-- (meta específica 2)
+**Pergunta 3:** Como você comunica insights para pessoas não técnicas?  
+**Resposta:** Utilizo gráficos claros, dashboards e relatórios simples, focando em linguagem acessível.  
 
-MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+**Pergunta 4:** Qual foi o maior desafio que enfrentou ao trabalhar com dados?  
+**Resposta:** Dificuldades em limpar dados inconsistentes e como resolveu com boas práticas.  
 
-SEMANA 9-10:
-- (meta específica 1)
-- (meta específica 2)
+**Pergunta 5:** Por que você quer seguir carreira em análise de dados?  
+**Resposta:** Interesse em transformar informações em decisões estratégicas, especialmente no setor financeiro.  
 
-SEMANA 11-12:
-- (meta específica 1)
-- (meta específica 2)
+---
 
-🚀 PROJETO DE PORTFÓLIO
+## 🎓 Trilha DIO Recomendada
 
-PROJETO: (nome do projeto)
+**Trilha:** Bootcamp *Power BI Analyst*  
 
-O QUE FAZER:
-(descrição clara do escopo)
+**Por que essa trilha:**  
+Conecta diretamente com análise de dados aplicada a relatórios financeiros, dashboards e comunicação de insights.  
 
-ENTREGÁVEIS:
-- (entregável 1)
-- (entregável 2)
-- (entregável 3)
+**Próximos Passos:**  
+1. Acesse [dio.me](https://dio.me)  
+2. Busque por "Power BI Analyst"  
+3. Inscreva-se gratuitamente  
+4. Siga o cronograma junto com este roadmap  
 
-CRITÉRIOS DE ACEITAÇÃO:
-- (critério 1)
-- (critério 2)
-- (critério 3)
+---
 
-DICA: (dica prática para executar o projeto)
+## 📊 Dataset Financeiro Fictício (para prática)
 
-💬 ROTEIRO DE ENTREVISTAS
+### Clientes
+| ClienteID | Nome        | Idade | Segmento        | Cidade         |
+|-----------|-------------|-------|-----------------|----------------|
+| 1         | Maria Silva | 32    | Pessoa Física   | São Paulo      |
+| 2         | João Souza  | 45    | Pessoa Jurídica | Rio de Janeiro |
+| 3         | Ana Costa   | 28    | Pessoa Física   | Salvador       |
 
-PERGUNTA 1: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
+### Empréstimos
+| EmprestimoID | ClienteID | ValorSolicitado | TaxaJuros | DataInicio  | DataFim    | Status       |
+|--------------|-----------|-----------------|-----------|-------------|------------|--------------|
+| 101          | 1         | 20.000          | 8%        | 2024-01-10  | 2025-01-10 | Ativo        |
+| 102          | 2         | 150.000         | 10%       | 2023-06-01  | 2024-06-01 | Quitado      |
+| 103          | 3         | 10.000          | 12%       | 2024-03-15  | 2025-03-15 | Inadimplente |
 
-PERGUNTA 2: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
+### Pagamentos
+| PagamentoID | EmprestimoID | DataPagamento | ValorPago | AtrasoDias |
+|-------------|--------------|---------------|-----------|------------|
+| 5001        | 101          | 2024-02-10    | 2.000     | 0          |
+| 5002        | 102          | 2023-07-01    | 15.000    | 0          |
+| 5003        | 103          | 2024-04-20    | 1.000     | 30         |
 
-PERGUNTA 3: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
+---
 
-PERGUNTA 4: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
+## ✨ Conclusão
 
-PERGUNTA 5: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
+Seu plano está pronto!  
+Lembre-se: o mais importante é a **constância**, não a velocidade.  
+Comece pela Semana 1 e vá no seu ritmo.  
 
-🎓 TRILHA DIO RECOMENDADA
-
-TRILHA: (nome específico da trilha/bootcamp DIO)
-
-POR QUE ESSA TRILHA:
-(explicação de como conecta com a carreira)
-
-PRÓXIMOS PASSOS:
-1. Acesse dio.me
-2. Busque por "(nome da trilha)"
-3. Inscreva-se gratuitamente
-4. Siga o cronograma junto com este roadmap
-
-
-✨ Seu plano está pronto!
-
-Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
-
-Tem alguma dúvida sobre o plano? Posso detalhar alguma parte específica?
-
-
-## ⚙️ REGRAS DE PERSONALIZAÇÃO
-
-HORAS/SEMANA:
-- Menos de 5h: estender prazos, focar no essencial
-- 5-10h: roadmap padrão
-- Mais de 15h: adicionar conteúdo extra, projetos avançados
-
-EXPERIÊNCIA:
-- Zero: explicações mais didáticas, fundamentos reforçados
-- Iniciante: equilibrar teoria e prática
-- Alguma: focar em gaps específicos e portfolio
-
-OBJETIVO:
-- Primeiro emprego: enfatizar portfolio e entrevistas
-- Transição: destacar transferência de skills
-- Crescimento: focar em skills avançadas
-\
+---
