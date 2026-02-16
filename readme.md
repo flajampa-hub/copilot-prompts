@@ -1,110 +1,156 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+# 🚀 Roadmap de Carreira - Analista de Dados
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+Este documento apresenta um plano personalizado de estudos e prática para quem deseja crescer na função de **Analista de Dados**, com foco em aplicações no setor financeiro.
 
-</p>
+---
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+## 🧩 Visão do Dia a Dia
 
-<br/>
-<br/>
+Como é o trabalho de um(a) Analista de Dados:
 
-## 💻 Sobre o Projeto
+- Coletar e organizar dados de diferentes fontes  
+- Limpar e preparar dados para análise  
+- Criar relatórios e dashboards para apoiar decisões  
+- Identificar padrões e tendências em dados financeiros e de negócios  
+- Comunicar insights de forma clara para equipes e gestores  
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+---
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+## 🧠 Mapa de Skills
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+**Core Skills (essenciais):**
+- Lógica de programação e SQL  
+- Estatística básica e análise exploratória  
+- Visualização de dados (gráficos, dashboards)  
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+**Nice-to-Have (complementares):**
+- Noções de Python para análise de dados  
+- Conhecimento em Excel avançado  
 
-- _Exemplo_:
+**Ferramentas e Tecnologias:**
+- SQL (MySQL, PostgreSQL)  
+- Power BI ou Tableau  
+- Excel  
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+---
 
-- [Outros pré-requisitos, se aplicável]
+## 📅 Roadmap de 90 Dias
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+**Adaptado para: 5 horas/semana**
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+### Mês 1 - Fundamentos
+**Semana 1-2:**
+- Introdução ao papel de Analista de Dados  
+- Aprender conceitos básicos de bancos de dados e SQL  
 
-- [Lista das habilidades principais a serem desenvolvidas]
+**Semana 3-4:**
+- Praticar consultas SQL (SELECT, WHERE, JOIN)  
+- Revisar estatística básica (médias, variância, correlação)  
 
-  - [Subhabilidades relacionadas, se aplicável]
+### Mês 2 - Prática
+**Semana 5-6:**
+- Criar relatórios simples em Excel e Power BI  
+- Explorar datasets financeiros para prática  
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+**Semana 7-8:**
+- Aprender a limpar e transformar dados  
+- Criar dashboards interativos em Power BI  
 
-## 🎯 Objetivos e Resultados Esperados
+### Mês 3 - Portfólio e Preparação
+**Semana 9-10:**
+- Desenvolver projeto de análise de dados financeiros  
+- Documentar insights e recomendações  
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+**Semana 11-12:**
+- Simular entrevistas técnicas  
+- Revisar conceitos principais e preparar portfólio  
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+---
 
-<!--START_SECTION:footer-->
+## 🚀 Projeto de Portfólio
 
-<br />
-<br />
+**Projeto:** Dashboard Financeiro Interativo  
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+**O que fazer:**  
+Construir um dashboard em Power BI com dados fictícios de uma empresa financeira, mostrando KPIs como receita, despesas, lucro e tendências.  
+
+**Entregáveis:**  
+- Dataset limpo e organizado  
+- Dashboard interativo com filtros  
+- Relatório com insights e recomendações  
+
+**Critérios de Aceitação:**  
+- Dashboard funcional e claro  
+- KPIs relevantes e bem apresentados  
+- Documentação explicando decisões e insights  
+
+**Dica:** Use datasets públicos de finanças (ex.: Kaggle) para praticar e enriquecer seu portfólio.  
+
+---
+
+## 💬 Roteiro de Entrevistas
+
+**Pergunta 1:** O que faz um Analista de Dados?  
+**Resposta:** Coleta, organiza e analisa dados para gerar insights que apoiam decisões estratégicas.  
+
+**Pergunta 2:** Qual sua experiência com SQL?  
+**Resposta:** Cite exemplos de consultas que já praticou, como selecionar dados, aplicar filtros e fazer joins.  
+
+**Pergunta 3:** Como você comunica insights para pessoas não técnicas?  
+**Resposta:** Utilizo gráficos claros, dashboards e relatórios simples, focando em linguagem acessível.  
+
+**Pergunta 4:** Qual foi o maior desafio que enfrentou ao trabalhar com dados?  
+**Resposta:** Dificuldades em limpar dados inconsistentes e como resolveu com boas práticas.  
+
+**Pergunta 5:** Por que você quer seguir carreira em análise de dados?  
+**Resposta:** Interesse em transformar informações em decisões estratégicas, especialmente no setor financeiro.  
+
+---
+
+## 🎓 Trilha DIO Recomendada
+
+**Trilha:** Bootcamp *Power BI Analyst*  
+
+**Por que essa trilha:**  
+Conecta diretamente com análise de dados aplicada a relatórios financeiros, dashboards e comunicação de insights.  
+
+**Próximos Passos:**  
+1. Acesse [dio.me](https://dio.me)  
+2. Busque por "Power BI Analyst"  
+3. Inscreva-se gratuitamente  
+4. Siga o cronograma junto com este roadmap  
+
+---
+
+## 📊 Dataset Financeiro Fictício (para prática)
+
+### Clientes
+| ClienteID | Nome        | Idade | Segmento        | Cidade         |
+|-----------|-------------|-------|-----------------|----------------|
+| 1         | Maria Silva | 32    | Pessoa Física   | São Paulo      |
+| 2         | João Souza  | 45    | Pessoa Jurídica | Rio de Janeiro |
+| 3         | Ana Costa   | 28    | Pessoa Física   | Salvador       |
+
+### Empréstimos
+| EmprestimoID | ClienteID | ValorSolicitado | TaxaJuros | DataInicio  | DataFim    | Status       |
+|--------------|-----------|-----------------|-----------|-------------|------------|--------------|
+| 101          | 1         | 20.000          | 8%        | 2024-01-10  | 2025-01-10 | Ativo        |
+| 102          | 2         | 150.000         | 10%       | 2023-06-01  | 2024-06-01 | Quitado      |
+| 103          | 3         | 10.000          | 12%       | 2024-03-15  | 2025-03-15 | Inadimplente |
+
+### Pagamentos
+| PagamentoID | EmprestimoID | DataPagamento | ValorPago | AtrasoDias |
+|-------------|--------------|---------------|-----------|------------|
+| 5001        | 101          | 2024-02-10    | 2.000     | 0          |
+| 5002        | 102          | 2023-07-01    | 15.000    | 0          |
+| 5003        | 103          | 2024-04-20    | 1.000     | 30         |
+
+---
+
+## ✨ Conclusão
+
+Seu plano está pronto!  
+Lembre-se: o mais importante é a **constância**, não a velocidade.  
+Comece pela Semana 1 e vá no seu ritmo.  
+
+---
